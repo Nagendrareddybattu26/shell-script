@@ -7,6 +7,6 @@ MOVIES=("JAGADEESHWARREDDY" "NAGENDRAREDDY" "SAITEJAREDDY")
 # LIST ALWAY START WITH 0 
 
 
-echo "First movie is: ${MOVIES[O]"
-echo "First movie is: ${MOVIES[1]"
-echo "First movie is: ${MOVIES[2]"
+echo "First movie is: ${MOVIES[O]}"
+echo "First movie is: ${MOVIES[1]}"
+echo "First movie is: ${MOVIES[2]}"
