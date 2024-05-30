@@ -4,4 +4,4 @@
 echo "All variables: $@"
 echo "number of varibles pass: $#"
 echo "script name: $0"
-echo "currect working directory: $pwd"
+echo "currect working directory: $PWD"
