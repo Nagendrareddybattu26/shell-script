@@ -4,9 +4,9 @@ PERSON2=nagendra
 
 
 
-echo "battu:: how are you?"
-echo "nagendra:: where are you"
-echo "battu:: you are from"
-echo "nagendra:: you are from"
-echo "battu:: you are from"
-echo "nagendra:: you are from"
+echo "$PERSON1:: how are you?"
+echo "$PERSON2:: where are you"
+echo "$PERSON1:: you are from"
+echo "$PERSON2:: you are from"
+echo "$PERSON1:: you are from"
+echo "$PERSON2:: you are from"
