@@ -2,3 +2,4 @@
 
 
 echo "All variables: $@"
+echo "number of varibles pass: $#"
