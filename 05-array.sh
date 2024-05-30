@@ -8,5 +8,5 @@ MOVIES=("JAGADEESHWARREDDY" "NAGENDRAREDDY" "SAITEJAREDDY")
 
 
 echo "First movie is: ${MOVIES[O]}"
-echo "First movie is: ${MOVIES[1]}"
-echo "First movie is: ${MOVIES[2]}"
+echo "Secound movie is: ${MOVIES[1]}"
+echo "third movie is: ${MOVIES[2]}"
