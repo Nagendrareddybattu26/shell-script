@@ -9,4 +9,7 @@ else
     echo "You are super user."
 fi
 
+apt-get install git -y
 apt-get install mysql -y
+
+
