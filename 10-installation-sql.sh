@@ -9,4 +9,4 @@ else
     echo "You are super user."
 fi
 
-dnf install mysql -y
+apt-get install mysql -y
